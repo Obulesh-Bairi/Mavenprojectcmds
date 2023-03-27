@@ -1,0 +1,11 @@
+webdrivermanagebasics\Firefoxbrowserbasics.class
+webdrivermanagebasics\IEdriversetupbasics.class
+com\hcl\FailureTest.class
+com\hcl\AppTest.class
+TestNGbasics\testannonation2.class
+com\hcl\IOSTest.class
+com\hcl\MobileTest.class
+webdrivermanagebasics\browserbasics.class
+webdrivermanagebasics\Edgedriversetupbasics.class
+com\hcl\AndroidTest.class
+TestNGbasics\testannonation.class
